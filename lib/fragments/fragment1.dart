@@ -21,7 +21,7 @@ class Fragment1 extends StatefulWidget implements Fragment {
 
   @override
   String getParameter() {
-    return null;
+    return 'aaaaaaaa';
   }
 
   @override

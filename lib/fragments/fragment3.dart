@@ -23,7 +23,7 @@ class Fragment3 extends StatefulWidget implements Fragment {
   @override
   String getParameter() {
     // TODO: implement getParameter
-    return null;
+    return 'ccccccccccc';
   }
 
   @override
